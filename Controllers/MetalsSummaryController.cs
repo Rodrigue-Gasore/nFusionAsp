@@ -46,10 +46,13 @@ namespace nfusionsolutionsChallengeAPI.Controllers
                     metals = JsonConvert.DeserializeObject<List<MetalsSummaryResponse>>(apiResponse);
                 }
             }
-            metals.Add(new MetalsSummaryResponse
+            if (metal!=null && metal!="")
             {
-                data = new MetalsData { symbol=metal,ask=askDelta,bid=bidDelta }
-            });
+                metals.Add(new MetalsSummaryResponse
+                {
+                    data = new MetalsData { symbol = metal, ask = askDelta, bid = bidDelta }
+                });
+            }
             return metals;
         }
     }

@@ -19,5 +19,10 @@ namespace nfusionsolutionsChallengeAPI.Models
         public double? oneDayChange { get; set; }
         public double? oneDayPercentChange { get; set; }
         public DateTime timeStamp { get; set; }
+        public MetalsData()
+        {
+            oneDayChange = 0;
+            oneDayPercentChange = 0;
+        }
     }
 }
