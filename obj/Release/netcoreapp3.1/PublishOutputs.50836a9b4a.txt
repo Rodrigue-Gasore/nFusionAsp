@@ -1,0 +1,11 @@
+D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Release\netcoreapp3.1\PubTmp\Out\nfusionsolutionsChallengeAPI.exe
+D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Release\netcoreapp3.1\PubTmp\Out\nfusionsolutionsChallengeAPI.dll
+D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Release\netcoreapp3.1\PubTmp\Out\nfusionsolutionsChallengeAPI.deps.json
+D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Release\netcoreapp3.1\PubTmp\Out\nfusionsolutionsChallengeAPI.runtimeconfig.json
+D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Release\netcoreapp3.1\PubTmp\Out\nfusionsolutionsChallengeAPI.pdb
+D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll

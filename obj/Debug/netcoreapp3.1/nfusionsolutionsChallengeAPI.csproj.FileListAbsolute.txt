@@ -23,3 +23,4 @@ D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsC
 D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Debug\netcoreapp3.1\nfusionsolutionsChallengeAPI.dll
 D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Debug\netcoreapp3.1\nfusionsolutionsChallengeAPI.pdb
 D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Debug\netcoreapp3.1\nfusionsolutionsChallengeAPI.genruntimeconfig.cache
+D:\Documents\MyDocs\ASP .NET Core\nfusionsolutionsChallengeAPI\nfusionsolutionsChallengeAPI\obj\Debug\netcoreapp3.1\nfusionsolutionsChallengeAPI.csproj.AssemblyReference.cache
