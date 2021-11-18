@@ -26,7 +26,7 @@ namespace nfusionsolutionsChallengeAPI.Controllers
             _config = config;
         }
         [HttpGet]
-        public async Task<IEnumerable<MetalsSummaryResponse>> Get(string metal, double bidDelta, double askDelta)
+        public IEnumerable<MetalsSummaryResponse> Get(string metal, double bidDelta, double askDelta)
         {
             List<MetalsSummaryResponse> metals = new List<MetalsSummaryResponse>();
             var apiKey = _config.GetValue<string>("ApiKey");
@@ -40,9 +40,9 @@ namespace nfusionsolutionsChallengeAPI.Controllers
                 httpClient.BaseAddress = new Uri("https://api.nfusionsolutions.biz/api/v1/Metals/spot/summary/");
                 var requestUri = QueryHelpers.AddQueryString("", queryString);
                 var request = new HttpRequestMessage(HttpMethod.Get, requestUri);
-                using (var response = await httpClient.SendAsync(request))
+                using (var response = httpClient.SendAsync(request))
                 {
-                    string apiResponse = await response.Content.ReadAsStringAsync();
+                    string apiResponse = response.Result.Content.ReadAsStringAsync().Result;
                     metals = JsonConvert.DeserializeObject<List<MetalsSummaryResponse>>(apiResponse);
                 }
             }
