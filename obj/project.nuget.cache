@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "22JQga0pFHcxpWDPtgyoeMoFo1W/qcWjt7JJuKgCrdSJLbFRouZDQiMKMb9r5Tv8VkS8zVzjmWYufjXgS34o1w==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\MyDocs\\ASP .NET Core\\nfusionsolutionsChallengeAPI\\nfusionsolutionsChallengeAPI\\nfusionsolutionsChallengeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gasore\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.21\\microsoft.aspnetcore.jsonpatch.3.1.21.nupkg.sha512",
+    "C:\\Users\\gasore\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.21\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.21.nupkg.sha512",
+    "C:\\Users\\gasore\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\gasore\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\gasore\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
