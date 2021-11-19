@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="rodrigue-001-site1" tags="IisApp">
+  <parameter name="IIS Web Application Name" description="" value="rgasore-001-site1" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Documents\\MyDocs\\ASP\ \.NET\ Core\\nfusionsolutionsChallengeAPI\\nfusionsolutionsChallengeAPI\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>
